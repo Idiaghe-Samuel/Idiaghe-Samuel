@@ -10,7 +10,7 @@ Currently focused on React, TypeScript, and modern frontend architecture.
 
 ## 🚀 About Me
 
-- 🎓 Mechatronics student exploring frontend engineering
+- 🎓 Mechatronics student exploring frontend developement
 - 💻 Focused on React + TypeScript development
 - 🎨 Interested in UI systems, performance, and clean design
 - 📈 Always improving through projects and experiments
